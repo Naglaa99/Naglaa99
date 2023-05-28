@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Naglaa Hamdi ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /><b>Hi , I'm Naglaa Hamdi ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About me:
 <p>⚡ I am graduated from Faculty of Engineering,Al-azhar university.<p>
@@ -16,3 +16,4 @@
 
  ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naglaa99&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Naglaa99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+

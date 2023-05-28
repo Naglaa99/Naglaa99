@@ -1,6 +1,8 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /><b>Hi , I'm Naglaa Hamdi ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /><b>Hi , I'm Naglaa Hamdi ! </b>    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+</h1>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About me:
+
 <p>⚡ I am graduated from Faculty of Engineering,Al-azhar university.<p>
 <p>⚡ I am a passionate and motivated Frontend Developer with a strong foundation in 
       HTML, CSS, and JavaScript. Proficient in frontend frameworks like Angular, I am 
@@ -10,7 +12,24 @@
      Information Technology Institute's intensive Full Stack development program using 
      PHP, I possess a solid understanding of both front-end and back-end development, 
      along with familiarity with diverse web development frameworks and technologies.<p>
+           
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">For More Information, Please Check Out or Connect Me Via
 
+<p align="center">
+  <a href="Naglaahamdi6@gmail.com" >
+    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/naglaa-hamdi-9a56b1205/" target="_blank">
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/Naglaa99" target="_blank">
+    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+<p>
+ <br>          
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
